@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul li{
+    list-style-type: none;
+}
+/* Nav */
+nav{
+ 
+width: 100vw;
+/* height: 5.4rem; */
+height: 8vh;
+font-size: 4rem;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+ 
+padding: 1.81rem 1.56rem 1.81rem 2.38rem;
+background: #000000;
+border-bottom: 2px solid #FFFFFF;
+}
+ /* Header */
+             
+header{
+width: 5.19rem;
+height: 1.81rem;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 1.5rem;
+line-height: 1.81rem;
+
+/* identical to box height */
+color: #FFFFFF;
+}
+
+/* Signup Profile */
+ul {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+width: 12.25rem;
+height: 1.81rem;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 1.5rem;
+line-height: 1.81rem;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}

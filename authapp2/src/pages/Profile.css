@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+ li{
+    list-style: none;
+ }
+ 
+ #profile-btn{
+    width: 14.13rem;
+    height: 3.63rem;
+    font-size: 1.5rem;
+    padding: 0.75rem 4.81rem 0.81rem 4.81;
+    font-family: 'Inter';
+   font-style: normal;
+    font-weight: 300;
+ background-color: white;
+ color: black;
+line-height: 1.81rem;
+ 
+ }
+
+ .profile > ul> li{
+   
+    width: 80rem;
+   
+    height: 8rem;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 4rem;
+line-height: 4.81rem;
+ 
+
+
+color: #FFFFFF;
+ }
+
+ .profile{
+     
+    margin-top: 3.5rem;
+    margin-left: 3.5rem; 
+    height: 40rem;
+    /* height: 20vh; */
+     
+    display: flex;
+   flex-direction: column; 
+
+ }
+
+ .profile > ul{
+   width: fit-content;
+   height: auto;
+   display: flex;
+   flex-direction: column;  
+   
+
+ }
